@@ -27,9 +27,9 @@ if [[ "$3" == "" ]]; then
 	dir="sigs_110X";
 fi;
 
-echo "dir: ${dir}"
 echo "Process name: ${prox}";
 echo "Sample  name: ${SAMP}";
+echo "Output directory name: ${dir}"
 
 if [ ! -d $dir ]; then
     mkdir $dir
