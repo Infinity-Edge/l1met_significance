@@ -1,7 +1,8 @@
 # L1 MET significance calculator
 
 Before use this scripts, please prepare nominal L1 Phase-2 samples.
-The sample should be placed in upper directory.
+
+The sample should be placed in 1-step upper directory.
 
 It requires PF/PUPPI jet and MET information.
 
