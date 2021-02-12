@@ -19,13 +19,15 @@ scram b -j8
 move to work directory and clone this repository.
 ```
 cd FastPUPPI/NtupleProducer/python/
-git clone <this repository>
+git clone https://github.com/Infinity-Edge/l1met_significance.git
+cd l1met_significance
 ```
+
 
 
 Before use this scripts, please prepare nominal L1 Phase-2 samples.
 
-The sample should be placed in 1-step upper directory.
+The sample should be placed in `FastPUPPI/NtupleProducer/python/`.
 
 It requires PF/PUPPI jet and MET information.
 
